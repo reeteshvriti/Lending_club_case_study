@@ -79,7 +79,8 @@ Employee length has weak correleation with intrest rate
 
 
 ## Contact
-Created by [@reeteshvriti] [reetesh-v.netlify.app]- feel free to contact me!
+Created by [@reeteshvriti]
+-  [reetesh-v.netlify.app]- feel free to contact me!
 
 
 <!-- Optional -->
